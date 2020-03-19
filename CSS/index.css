@@ -1,0 +1,46 @@
+.container{
+    padding:20px;
+}
+.bodyup{
+    background-image: url(https://www.itl.cat/pngfile/big/38-385592_blue-abstract-wallpaper.jpg);
+    height: 400px;
+    width: auto;
+    background-size: cover;
+    margin: 20px;
+    margin-bottom: 0;
+}
+.bodydown{
+    background-image: url(https://www.itl.cat/pngfile/big/13-139227_abstract-wallpaper.jpg);
+    height: 150px;
+    width: auto;
+    margin: 20px;
+    margin-top: 0;
+}
+
+p{
+    color: white;
+    font-family: Cambria;
+    padding: 30px;
+    padding-bottom: 0;
+    margin-bottom: 0;
+    margin-top: 50px;
+    font-size: 35px;
+}
+h1{
+    color: white;
+    padding-left: 50px;
+    font-size: 90px;
+    
+}
+.tags1{
+    background-image: url('assets/one.jpg');
+    margin: 45px;
+    height: 150px;
+    width: 15%;
+    
+    position: relative;
+    border-radius: 50%;
+}
+.div_tags{
+    display: flex;
+}
